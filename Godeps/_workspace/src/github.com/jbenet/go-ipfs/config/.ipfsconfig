@@ -1,0 +1,35 @@
+{
+  "Identity": {
+    "PeerID": "",
+    "PrivKey": ""
+  },
+  "Datastore": {
+    "Type": "",
+    "Path": "/path/to/datastore"
+  },
+  "Addresses": {
+    "Swarm": "",
+    "API": ""
+  },
+  "Mounts": {
+    "IPFS": "",
+    "IPNS": ""
+  },
+  "Version": {
+    "Current": "",
+    "Check": "",
+    "CheckDate": "0001-01-01T00:00:00Z",
+    "CheckPeriod": "",
+    "AutoUpdate": "never"
+  },
+  "Bootstrap": null,
+  "Tour": {
+    "Last": ""
+  },
+  "Logs": {
+    "Filename": "",
+    "MaxSizeMB": 0,
+    "MaxBackups": 0,
+    "MaxAgeDays": 0
+  }
+}

@@ -1,0 +1,87 @@
+{
+	"ImportPath": "github.com/maybebtc/keygen",
+	"GoVersion": "go1.3.3",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/go-uuid/uuid",
+			"Comment": "null-12",
+			"Rev": "7dda39b2e7d5e265014674c5af696ba4186679e9"
+		},
+		{
+			"ImportPath": "code.google.com/p/go.crypto/sha3",
+			"Comment": "null-219",
+			"Rev": "00a7d3b31bbab5795b4a51933c04fc2768242970"
+		},
+		{
+			"ImportPath": "code.google.com/p/go.net/context",
+			"Comment": "null-144",
+			"Rev": "ad01a6fcc8a19d3a4478c836895ffe883bd2ceab"
+		},
+		{
+			"ImportPath": "code.google.com/p/gogoprotobuf/proto",
+			"Rev": "6c980277330804e94257ac7ef70a3adbe1641059"
+		},
+		{
+			"ImportPath": "code.google.com/p/goprotobuf/proto",
+			"Comment": "go.r60-152",
+			"Rev": "36be16571e14f67e114bb0af619e5de2c1591679"
+		},
+		{
+			"ImportPath": "github.com/facebookgo/stack",
+			"Rev": "4da6d991fc3c389efa512151354d643eb5fae4e2"
+		},
+		{
+			"ImportPath": "github.com/facebookgo/stackerr",
+			"Rev": "060fbf9364c89acd41bf710e9e92915a90e7a5b5"
+		},
+		{
+			"ImportPath": "github.com/jbenet/go-base58",
+			"Rev": "568a28d73fd97651d3442392036a658b6976eed5"
+		},
+		{
+			"ImportPath": "github.com/jbenet/go-datastore",
+			"Rev": "b31aad9b9b22e46d99a270ed5aebb259fab64dcc"
+		},
+		{
+			"ImportPath": "github.com/jbenet/go-ipfs/config",
+			"Rev": "105f23215760485571fd601afbe4b186a37b7a12"
+		},
+		{
+			"ImportPath": "github.com/jbenet/go-ipfs/crypto",
+			"Rev": "105f23215760485571fd601afbe4b186a37b7a12"
+		},
+		{
+			"ImportPath": "github.com/jbenet/go-ipfs/peer",
+			"Rev": "105f23215760485571fd601afbe4b186a37b7a12"
+		},
+		{
+			"ImportPath": "github.com/jbenet/go-ipfs/util",
+			"Rev": "105f23215760485571fd601afbe4b186a37b7a12"
+		},
+		{
+			"ImportPath": "github.com/jbenet/go-logging",
+			"Rev": "74bec4b83f6d45d1402c1e9d94c0c29e39f6e0ea"
+		},
+		{
+			"ImportPath": "github.com/jbenet/go-multiaddr",
+			"Comment": "0.1.2-27-g62a88e0",
+			"Rev": "62a88e015e1bf5d6aaca29aec1aba0722f21c8d3"
+		},
+		{
+			"ImportPath": "github.com/jbenet/go-multihash",
+			"Comment": "0.1.0-5-g1976046",
+			"Rev": "1976046c2b0db0b668791b3e541d76a38b7c1af7"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/go-homedir",
+			"Rev": "7d2d8c8a4e078ce3c58736ab521a40b37a504c52"
+		},
+		{
+			"ImportPath": "github.com/rcrowley/go-metrics",
+			"Rev": "dee209f2455f101a5e4e593dea94872d2c62d85d"
+		}
+	]
+}
