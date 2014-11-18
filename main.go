@@ -174,7 +174,6 @@ var desiredNames = []string{
 	"danmane",
 	"earth",
 	"ercury",
-	"foo",
 	"ip",
 	"ipn",
 	"jbenet",
@@ -188,7 +187,6 @@ var desiredNames = []string{
 	"mercury",
 	"nala",
 	"neptune",
-	"p2p",
 	"pluto",
 	"polarbear",
 	"saturn",
@@ -197,6 +195,4 @@ var desiredNames = []string{
 	"uranus",
 	"venus",
 	"why",
-	"xxx",
-	"zzz",
 }
